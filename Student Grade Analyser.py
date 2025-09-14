@@ -42,5 +42,6 @@ for name, data in students.items():
 print(f"\nClass Average: {average:.2f}")
 print(f"Students Passed: {passed}")
 print(f"Top Performer: {top_student}")
+print ("Thank you for using the App")
 
 
